@@ -1,0 +1,12 @@
+{
+    "name": "todo-db",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "express": "4.18.2",
+        "mysql": "2.18.1",
+        "dotenv": "16.3.1"
+        
+    }
+}
