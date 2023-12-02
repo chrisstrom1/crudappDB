@@ -1,0 +1,7 @@
+get a specific entry and all its details given an id
+
+add an entry
+
+delete an entry its id
+
+update an entry given its id
